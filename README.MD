@@ -27,7 +27,9 @@ This game is perfect for:
 
 ---
 
-## 🚀 Getting Started
+## 🎮 Demo Screenshot
+
+![Game Screenshot](assets/Demo_Bbox-arena.gif)
 
 ### 🔧 Prerequisites
 

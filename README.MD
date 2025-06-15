@@ -29,7 +29,7 @@ This game is perfect for:
 
 ## 🎮 Demo Screenshot
 
-![Game Screenshot](Iou_game/assests/Demo_Bbox-arena.gif)
+![Game Screenshot](assests/Demo_Bbox-arena.gif)
 
 
 ### 🔧 Prerequisites
